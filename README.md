@@ -1,8 +1,10 @@
 # 2020-Prediction-Model-
 **Problem Statement:**
-With the 2020 Democractic Primary winding down we read, and hear more and more about electability as a determining factor in the mind of voters as they take the ballot box. At the time of writing this the field has effectively wound down to two candidates with a chance for the nomination; former Vice President Joe Biden and Vermont Senator Bernie Sanders. The goal of this project is to take in current polling data available to us and infer which of these two candidates has the best chance of defeating President Trump.
+With the 2020 Democractic Primary winding down we read, and hear more and more about youth turnout levels versus elder turnout levels. Senator Sanders, the main challenger to now Joe Biden rests his campaign on the hope of younger voters turning out, while the vormer Vice President is looking to keep together the Obama coalition now twelve years older. Prediciting voter turnout in and of itself is a difficult calculation to make and one that has a high variation of methods and processes. 
 
-This Notebook will also attempt to predict the outcomes of the March 17th democratic primaries taking place in Arizona, Florida, Illinois and Ohio.
+This project, will look to use  Bayesian inference and MCMC with prior data gotten from the previous Democratic primary cycle methods to create posterior distributions 
+
+the preceeding notebook/notebooks and code will look to answer the questions, how many people from each age bucket do we expect to vote in upcomming elections?
 
 **What are My Metrics:**
 
