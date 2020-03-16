@@ -1,16 +1,7 @@
 # 2020-Prediction-Model-
-**Problem Statement:**
-With the 2020 Democractic Primary winding down we read, and hear more and more about youth turnout levels versus elder turnout levels. Senator Sanders, the main challenger to now Joe Biden rests his campaign on the hope of younger voters turning out, while the vormer Vice President is looking to keep together the Obama coalition now twelve years older. Prediciting voter turnout in and of itself is a difficult calculation to make and one that has a high variation of methods and processes. 
-
-This project, will look to use  Bayesian inference and MCMC with prior data gotten from the previous Democratic primary cycle methods to create posterior distributions 
-
-the preceeding notebook/notebooks and code will look to answer the questions, how many people from each age bucket do we expect to vote in upcomming elections?
-
-**What are My Metrics:**
-
-
 **Executive Statement:**
 The beggining of the notebook takes a look at how many polls we are dealing with per state. Of course, there is a lot of polling done in states that are consequential to the election process, and that bores out when looking at a bar graph represented towards the center of the notebook. 
+
 
 **Data Dictionary:**
 | Name of CSV File            | Description of CSV File                                                                      |
